@@ -1,3 +1,12 @@
+/*
+
+You can style other components using the following notation:
+
+* {
+  color: darkgreen;
+}
+ */
+
 .App {
   text-align: center;
 }
